@@ -13,7 +13,7 @@
   "license": "MIT",
   "dependencies": {
     "aws-cli": "0.0.2",
-    "aws-sdk": "^2.605.0",
+    "aws-sdk": "^2.814.0",
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.4",
